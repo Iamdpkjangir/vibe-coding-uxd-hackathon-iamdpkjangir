@@ -1,0 +1,8 @@
+:root{
+  --brand:#22c55e;
+  --bg:#0b1220;
+  --card:#0f172a;
+  --text:#e5e7eb;
+}
+body{background:var(--bg);color:var(--text);}
+a{color:var(--brand);}
